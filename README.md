@@ -31,7 +31,7 @@ Three different approaches have been used.
 
 #### Syntax for inference
 ```
-pythnon predict_file.py -i /path/to/image.jpg
+python predict_file.py -i /path/to/image.jpg
 ```
 Example:
 ```
@@ -39,7 +39,7 @@ python predict_all_models.py -i day_night_dataset/val/night/pexels-photo-2403202
 ```
 
 #### Sample Results
-These sample results are generate using the [predict_all_models.py](https://github.com/jayeshsaita/Day-Night-Classifier/blob/master/predict_all_models.py) file.
+These sample results are generated using the [predict_all_models.py](https://github.com/jayeshsaita/Day-Night-Classifier/blob/master/predict_all_models.py) file.
 
 ![result1.png](result1.png)
 ![result2.png](result2.png)
